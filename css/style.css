@@ -37,8 +37,9 @@
   display: inline-block;
   font-size: 25px;
 }
-#texto-perfil #pg p, #texto-projeto #pg p {
-  margin-left: 20px;
+#texto-perfil #fperfil, #texto-projeto #fperfil {
+  cursor: pointer;
+  margin-top: 1em;
 }
 
 h1, h2, p {
@@ -163,3 +164,4 @@ h1, h2, p {
 }
 
 /*# sourceMappingURL=style.css.map */
+
